@@ -8,3 +8,5 @@ CREATE TABLE Employees (
     age int
 
 );
+select firstname, lastname
+from employees;
