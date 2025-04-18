@@ -10,3 +10,6 @@ CREATE TABLE Employees (
 );
 select firstname, lastname
 from employees;
+
+alter into(employeeid, firstname, lastname, email, hiredate, salary, age)
+values(8201737, 'naren','swaminathan','narenvishwa03@gmail.com', 08/01/2024,300000,23);
