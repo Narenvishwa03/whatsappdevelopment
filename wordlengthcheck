@@ -1,9 +1,0 @@
-public void WordLengthCheck() {
-		String sentence="this is the best programming language in the world";
-		String[] spilled=sentence.split(" ");
-		for(String word:spilled) {
-			 int length=word.length();
-			 String oddeven=(length % 2==0)?"even":"odd";
-       System.out.println(word + " is a " + length + "-letter word which is " + oddeven);
-		}
-	}
