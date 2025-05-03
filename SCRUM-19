@@ -1,0 +1,24 @@
+User story:
+
+This task is for the user can search the products in product category and to test the user applying price filter to the product. To verify products are getting filtered after applying the search for books category.
+
+Test case id - #1332518
+
+Test Description : Check if the product are getting filtered after applying the search for books category  
+
+Aim: to test if the user is able to search for the product by selecting the category. this test is to check if the books are getting filtered after applying the search for books category.
+
+this test case is created to accommodate the user story https://narenvishwa03.atlassian.net/browse/SCRUM-19
+
+
+steps:
+
+1.Hover over to the beauty, toys & more, under the drop down you can see the books category 
+2.click on the books category
+3.User applying the price range filter from 100  to 500
+
+Expected Result
+1.Books category should be visible.
+2.The page should be redirected to the books section and you should seeing only the books are displayed main area of the page. 
+3.Books should be getting filtered after applying price range, only 100 to 500 price range of books are getting displayed
+No books outside this price range (below 100 or above 500) are shown in the results.
