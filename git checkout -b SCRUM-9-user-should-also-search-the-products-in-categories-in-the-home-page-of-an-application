@@ -1,0 +1,17 @@
+Description:
+
+This story is to provide the user with a option to browse the products based on category.
+
+As a user
+
+I want to search the product on the product details page
+
+so that I can easy find the numbers products 
+
+Acceptance Criteria:
+
+Given the user is on home page
+
+When the user want the explore all types of product and they can easy choose the products
+
+Then the user can able to find the products in the product detail page
