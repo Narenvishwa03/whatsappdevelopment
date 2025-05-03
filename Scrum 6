@@ -1,0 +1,39 @@
+
+User should able to create an account in the application
+
+Description
+
+As a Customer
+
+I want to create a new account for the Flipkart application
+
+so that i can able to explore and purchase the product using this account
+
+Acceptance Criteria
+
+Given user is on Login page of an application 
+
+when the user should able to create a new account of an application
+
+so that user should able explore and buy new product
+
+Test Case : #1333738
+
+Test Title : To verify user should able to create an account to the application  
+
+Test Description : This is for the user is able to create a new account to the application 
+
+Test Steps : 
+1.User should installed and open the application 
+2.User should entered the valid username and password. and click submit button.
+3.User should enter the valid phone and click the submit button.
+Enter the OTP received
+4.click on verify button 
+
+Expected Results: 
+1.Application should be launched successfully, user should seeing the login page of an application
+2.Page should be redirected to the next page
+3.OTP should be sent successfully
+4.Account should be created successfully, user navigated to the home page successfully
+
+
